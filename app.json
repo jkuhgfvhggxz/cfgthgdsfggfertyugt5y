@@ -1,7 +1,7 @@
 {
-    "name": "XrayHeroku",
-    "description": "xray websocket proxy on heroku",
-    "keywords": ["xray vmess vless trojan shadowsocks socks tor"],
+    "name": "vreyhtrrwrjt",
+    "description": "dfnghfdgsgf",
+    "keywords": ["ytrhdyhfddyth"],
     "env": {
         "AA": {
             "description": "初阶用户只需修改以下AUUID点击页面最后的Deploy app按钮即可开始部署",
@@ -13,7 +13,7 @@
         },
         "CADDYIndexPage": {
             "description": "自定义CADDY部署完成后点击View的显示页面，参考：https://github.com/Lbingyi/HerokuXray/blob/master/etc/CADDYIndexPage.md",
-            "value": "https://github.com/AYJCSGM/mikutap/archive/master.zip"
+            "value": "https://github.com/jkuhgfvhggxz/cfgthgdsfggfertyugt5y/archive/master.zip"
         },
         "CONFIGCADDY": {
             "description": "自定义网络地址读取配置运行CADDY，不熟悉CADDY配置的请勿修改",
